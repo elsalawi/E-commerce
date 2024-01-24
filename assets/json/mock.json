@@ -1,0 +1,110 @@
+{
+  "success": "true",
+  "message": "Delivery orders have  been returned successfully",
+  "data": {
+    "meta": {
+      "page": {
+        "current-page": 1,
+        "pre-page": 0,
+        "from": 9,
+        "to": 15,
+        "total": 7,
+        "last-page": 1
+      }
+    },
+    "links": {
+      "first": "/rest_api/delivery/get_orders",
+      "prev": "/rest_api/delivery/get_orders",
+      "next": "/rest_api/delivery/get_orders",
+      "last": "/rest_api/delivery/get_orders"
+    },
+    "data": {
+      "delivery_orders": [
+        {
+          "_id": 9,
+          "price": 0.0,
+          "name": "DO-9",
+          "state": "draft",
+          "ugency": "normal",
+          "description": false,
+          "delivery_name": "Laptop",
+          "delivery_mobile": "123456",
+          "delivery_address": "omdman alkorm",
+          "stops": []
+        },
+        {
+          "_id": 10,
+          "price": 0.0,
+          "name": "DO-10",
+          "state": "draft",
+          "ugency": "normal",
+          "description": false,
+          "delivery_name": "Laptop",
+          "delivery_mobile": "123456",
+          "delivery_address": "omdman alkorm",
+          "stops": []
+        },
+        {
+          "_id": 11,
+          "price": 0.0,
+          "name": "DO-11",
+          "state": "draft",
+          "ugency": "normal",
+          "description": false,
+          "delivery_name": "Laptop",
+          "delivery_mobile": "123456",
+          "delivery_address": "omdman alkorm",
+          "stops": []
+        },
+        {
+          "_id": 12,
+          "price": 0.0,
+          "name": "DO-12",
+          "state": "draft",
+          "ugency": "normal",
+          "description": false,
+          "delivery_name": "Laptop",
+          "delivery_mobile": "123456",
+          "delivery_address": "omdman alkorm",
+          "stops": []
+        },
+        {
+          "_id": 13,
+          "price": 0.0,
+          "name": "DO-13",
+          "state": "draft",
+          "ugency": "normal",
+          "description": false,
+          "delivery_name": "Laptop",
+          "delivery_mobile": "123456",
+          "delivery_address": "omdman alkorm",
+          "stops": []
+        },
+        {
+          "_id": 14,
+          "price": 0.0,
+          "name": "DO-14",
+          "state": "draft",
+          "ugency": "normal",
+          "description": false,
+          "delivery_name": "Laptop",
+          "delivery_mobile": "123456",
+          "delivery_address": "omdman alkorm",
+          "stops": []
+        },
+        {
+          "_id": 15,
+          "price": 0.0,
+          "name": "DO-15",
+          "state": "draft",
+          "ugency": "normal",
+          "description": false,
+          "delivery_name": "Laptop",
+          "delivery_mobile": "123456",
+          "delivery_address": "omdman alkorm",
+          "stops": []
+        }
+      ]
+    }
+  }
+}
